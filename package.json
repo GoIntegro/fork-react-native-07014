@@ -1,10 +1,10 @@
 {
   "name": "react-native",
-  "version": "0.70.14",
+  "version": "0.0.1",
   "bin": "./cli.js",
   "description": "A framework for building native apps using React",
   "license": "MIT",
-  "repository": "github:facebook/react-native",
+  "repository": "github:gointegro/fork-react-native-07014",
   "engines": {
     "node": ">=14"
   },
